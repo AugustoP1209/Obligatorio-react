@@ -1,0 +1,18 @@
+
+monto total,ia operaciones,graficas
+moneda nombre en lista trans
+
+
+boton login deshabilitado?
+
+
+Cosas para hacer:
+
+*header
+* monto final inversiones
+* ia operaciones
+* graficos
+* react router, organizar todo
+* localhost?
+
+npm i react-router-dom@6
